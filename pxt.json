@@ -1,5 +1,5 @@
 {
-    "name": "By abert finger noodle",
+    "name": "By abert finger noodle - Copy",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -12,7 +12,8 @@
         "images.g.jres",
         "images.g.ts",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        "Albert-finger-noodles-instructions.ts"
     ],
     "testFiles": [
         "test.ts"
