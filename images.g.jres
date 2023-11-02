@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////DwAAAPBERET0AAAA//////8PAPBPEUFERA8Af/8R8f//D/D3TxFBREQPfw///////w/wAE8RQUREDwAA/xHx//8PAADwEUFE9AAAAAD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Albert-Finger-Noodle"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
